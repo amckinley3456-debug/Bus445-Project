@@ -7,6 +7,9 @@ We build a network of skills from real job postings. Two skills are linked when 
 same posting asks for both. Centrality tells us which AI skills employers lean on most,
 and community detection shows which skills travel together as career tracks.
 
+Live Dashboard
+https://amckinley3456-debug.github.io/Bus445-Project/
+
 ## Files
 
 ```
