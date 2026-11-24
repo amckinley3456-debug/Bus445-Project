@@ -3,9 +3,9 @@
 BUS 445 Advanced Business Analytics, Fall 2026, Farmingdale State College
 Group: Aidan McKinley, Reina Orellana, Jose Sanchez, Syed Abdul Gillani
 
-We build a network of skills from real job postings. Two skills are linked when the
-same posting asks for both. Centrality tells us which AI skills employers lean on most,
-and community detection shows which skills travel together as career tracks.
+Our group decided to build a network that would connect AI skills from real Job Listings. It shows how one AI skill 
+can appear in multiple listings and potential jobs. We measured the centrality of each skill to see which ones can help
+get you a job.
 
 Live Dashboard
 https://amckinley3456-debug.github.io/Bus445-Project/
